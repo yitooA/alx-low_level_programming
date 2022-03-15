@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints the size of data types of many typ
+ * main - prints the size of data types of many type
+ * it will return the value 0 return(0)
  */
 
 int main(void)
