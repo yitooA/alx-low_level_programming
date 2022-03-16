@@ -11,6 +11,11 @@
 
 int main(void)
 {
-	_putchar("_putchar");
+	char a[8]={'_', 'p', 'u', 't', 'c', 'h', 'a', 'r')
+	for(int i=0; i<8;i++)
+	{
+		putchar(a[i]);
+	}
 	return (0);
 }
+
